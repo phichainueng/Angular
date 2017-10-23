@@ -1,0 +1,13 @@
+.mycar {
+    background-color: #2FFFD6;
+}
+table{
+    border-collapse:collapse;
+}
+td,tr{
+    border-style: solid;
+    color:black;
+}
+body{
+    background-color: #03D56F
+}
